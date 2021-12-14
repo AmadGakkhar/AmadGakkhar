@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmadGakkhar
 - 👀 I’m an Electronics Engineer, currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 AmadGakkhar/AmadGakkhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
